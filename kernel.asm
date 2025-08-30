@@ -1,4 +1,4 @@
-// 32 bit bootloader by qemu-gadalka
+; 32 bit bootloader by qemu-gadalka
 bits 32
 section .text
         align 4
